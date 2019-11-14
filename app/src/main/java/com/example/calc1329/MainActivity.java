@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
         int a = 100;
         int b = 200;
         int c = a+b;
+        b = a;
+        c = 0;
+        a = b + 5;
+        System.out.println("Hello from Jedi!");
     }
 }
