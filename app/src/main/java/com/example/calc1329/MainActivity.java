@@ -12,11 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int a = 7, b = 9;
-        int c = a * b;
-        int d = a ^ c ^ 67890;
-        System.out.println(d ^ d);
-        System.out.println("kek");
-        //lmao
+        System.out.println("Kekes flekes!");
     }
 }
