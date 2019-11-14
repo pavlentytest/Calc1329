@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         int a = 100;
         int b = 200;
         int c = a+b;
+        int g = a/b;
+        int l = g + c;
+        System.out.println(l);
     }
 }
