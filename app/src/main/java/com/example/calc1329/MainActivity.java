@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         c = 0;
         a = b + 5;
         System.out.println("Hello from Jedi!");
-        //ffff
-        //pushim
+        //Lol kek from Chebureck
     }
 }
