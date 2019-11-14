@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hello from Jedi!");
         //ffff
         //pushim
+        //cho-to lomayu
     }
 }
