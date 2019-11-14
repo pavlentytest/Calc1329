@@ -19,13 +19,9 @@ public class MainActivity extends AppCompatActivity {
         int a = 100;
         int b = 200;
         int c = a+b;
-        b = a;
-        c = 0;
-        a = b + 5;
-        System.out.println("Hello from Jedi!");
-        //ffff
-        //pushim
-        //cho-to lomayu
-        //Lol kek from Chebureck
+
+        TextView tv = findViewById(R.id.textView);
+        tv.setText(""+c);
+
     }
 }
