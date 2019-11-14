@@ -16,5 +16,16 @@ public class MainActivity extends AppCompatActivity {
         int c = a * b;
         int d = a ^ c ^ 67890;
         System.out.println(d ^ d);
+        int maxim11 = 1;
+        //maxim11
+        Random r = new Random();
+        int x = r.nextInt(2000);
+        int a = 100;
+        int b = 200;
+        int c = a+b;
+
+        TextView tv = findViewById(R.id.textView);
+        tv.setText(""+c);
+
     }
 }
