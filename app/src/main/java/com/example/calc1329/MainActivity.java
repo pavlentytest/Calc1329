@@ -18,6 +18,5 @@ public class MainActivity extends AppCompatActivity {
         a = b + 5;
         System.out.println("Hello from Jedi!");
         //ffff
-        //pushim
     }
 }
